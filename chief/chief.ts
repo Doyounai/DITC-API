@@ -1,7 +1,8 @@
 interface Chief {
     id: string;
     name: string;
-    department: string;
+    surname: string;
     email: string;
     phone: string;
+    profile_url: string;
 }
